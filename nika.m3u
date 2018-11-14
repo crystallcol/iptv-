@@ -1,0 +1,263 @@
+﻿#EXTM3U
+#EXTINF:0 tvg-logo="http://www.vsetv.com/pic/channel_logos/5.gif",ICTV
+http://iptv.prosto.tv:8100/ch4/index.m3u8
+#EXTINF:0 tvg-logo="http://www.vsetv.com/pic/channel_logos/3.gif",1+1
+http://iptv.prosto.tv:8100/ch3/index.m3u8
+#EXTINF:0 tvg-logo="http://www.vsetv.com/pic/channel_logos/4.gif",Интер
+http://iptv.prosto.tv:8100/ch2/index.m3u8
+#EXTINF:0 tvg-logo="http://www.vsetv.com/pic/channel_logos/7.gif",Новый канал 
+http://iptv.prosto.tv:8100/ch6/index.m3u8
+#EXTINF:0 tvg-logo="http://www.vsetv.com/pic/channel_logos/108.gif",Украина
+http://iptv.prosto.tv:8100/ch28/index.m3u8
+#EXTINF:0 tvg-logo="http://www.vsetv.com/pic/channel_logos/6.gif",СТБ
+http://iptv.prosto.tv:8100/ch5/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.vsetv.com/pic/channel_logos/843.gif",НЛО TV
+http://iptv.prosto.tv:8100/ch80/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.vsetv.com/pic/channel_logos/460.gif",Оце
+http://iptv.prosto.tv:8100/ch26/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.vsetv.com/pic/channel_logos/1002.gif",Индиго
+http://iptv.prosto.tv:8100/ch51/index.m3u8
+#EXTINF:0 tvg-logo="http://www.vsetv.com/pic/channel_logos/19.gif",К1
+http://iptv.prosto.tv:8100/ch9/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.vsetv.com/pic/channel_logos/89.gif",Канал Disney
+http://185.10.211.10:7071/play/a032?auth=prihod:uYYhjEt
+#EXTINF:-1 tvg-logo="http://www.vsetv.com/pic/channel_logos/24.gif",ПлюсПлюс
+http://iptv.prosto.tv:8100/ch19/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.vsetv.com/pic/channel_logos/286.gif",Мультимания
+http://stb.tvoetv.in.ua:7071/play/a09h?auth=prihod:uYYhjEt
+#EXTINF:-1 tvg-logo="http://www.vsetv.com/pic/channel_logos/27.gif",Пиксель
+http://iptv.prosto.tv:8100/ch14/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.piccy.info/i9/2d98ecf2a07c35f3199291d8ce53db3d/1508793174/4161/1186904/Tlum_HD.jpg",ТЛУМ HD
+http://stb.tvoetv.in.ua:7071/play/a02o?auth=prihod:uYYhjEt
+#EXTINF:0 tvg-logo="http://i.piccy.info/i9/e56c8e3043222c41ee4c89e810f09945/1508793277/4738/1186904/Mult.jpg",Мульт
+http://stb.tvoetv.in.ua:7071/play/a07z?auth=prihod:uYYhjEt
+#EXTINF:0 tvg-logo="http://i.piccy.info/i9/604af9b972620f44e91f593b077882d2/1508500583/4203/1152476/Malysh.jpg",Малыш  
+http://stb.tvoetv.in.ua:7077/play/a024?auth=prihod:uYYhjEt
+#EXTINF:0 tvg-logo="http://www.vsetv.com/pic/channel_logos/14.gif",ТНТ
+http://stb.tvoetv.in.ua:7071/play/a0bs?auth=prihod:uYYhjEt
+#EXTINF:0  tvg-logo="http://www.vsetv.com/pic/channel_logos/476.gif",ТНТ4
+http://stb.tvoetv.in.ua:7071/play/a0bq?auth=prihod:uYYhjEt
+#EXTINF:0 tvg-logo="http://www.vsetv.com/pic/channel_logos/17.gif",СТС
+http://stb.tvoetv.in.ua:7071/play/a0bl?auth=prihod:uYYhjEt
+#EXTINF:0 tvg-shift="0" tvg-logo="http://www.vsetv.com/pic/channel_logos/758.gif",СТС International
+http://stb.tvoetv.in.ua:7071/play/a0bm?auth=prihod:uYYhjEt
+#EXTINF:-1 tvg-logo="http://www.vsetv.com/pic/channel_logos/952.gif",СТС Love
+http://stb.tvoetv.in.ua:7071/play/a0bn?auth=prihod:uYYhjEt
+#EXTINF:0 tvg-shift="0" tvg-logo="http://www.vsetv.com/pic/channel_logos/397.gif",Discovery Восточная Европа
+http://iptv.prosto.tv:8100/ch166/index.m3u8
+#EXTINF:0 tvg-logo="http://www.vsetv.com/pic/channel_logos/397.gif",Discovery Россия
+http://stb.tvoetv.in.ua:7071/play/a022?auth=prihod:uYYhjEt
+#EXTINF:0 tvg-logo="http://i.piccy.info/i9/faae7ae36fa49d60262433fce4e1031c/1508793053/3999/1186904/Discovery_Science.jpg",Discovery Science
+http://stb.tvoetv.in.ua:7071/play/a02j?auth=prihod:uYYhjEt
+#EXTINF:0 tvg-logo="http://i.piccy.info/i9/d5992204bdd415118d66a114f47db636/1508472787/10956/1186904/DTX.png",DTX  
+http://stb.tvoetv.in.ua:7071/play/a021?auth=prihod:uYYhjEt
+#EXTINF:-1 tvg-logo="http://www.vsetv.com/pic/channel_logos/152.gif",Viasat Explore Россия 
+http://stb.tvoetv.in.ua:7071/play/a05i?auth=prihod:uYYhjEt
+#EXTINF:-1 tvg-shift="0" tvg-logo="http://www.vsetv.com/pic/channel_logos/152.gif",Viasat Explore CEE
+http://iptv.prosto.tv:8100/ch116/index.m3u8
+#EXTINF:-1 tvg-logo="http://img.tyt.by/thumbnails/wr/tv_logo/logonew2/03/2/disc_hd_showcase_2015.jpg",Discovery HD Showcase
+http://185.10.211.10:7071/play/a02d?auth=prihod:uYYhjEt
+#EXTINF:0 tvg-logo="http://www.vsetv.com/pic/channel_logos/295.gif",National Geographic Россия 
+http://iptv.prosto.tv:8100/ch119/index.m3u8
+#EXTINF:0 tvg-logo="http://www.vsetv.com/pic/channel_logos/715.gif",Animal Planet
+http://iptv.prosto.tv:8100/ch177/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.vsetv.com/pic/channel_logos/879.gif",История
+http://185.10.211.10:7071/play/a0am?auth=prihod:uYYhjEt
+#EXTINF:0 tvg-logo="http://www.vsetv.com/pic/channel_logos/712.gif",Наука 2.0
+http://185.10.211.10:7071/play/a06h?auth=prihod:uYYhjEt
+#EXTINF:0 tvg-logo="http://www.vsetv.com/pic/channel_logos/1177.gif",Наука
+http://iptv.prosto.tv:8100/ch44/index.m3u8
+#EXTINF:0 tvg-logo="http://www.vsetv.com/pic/channel_logos/63.gif",ТВ-3 Россия
+http://stb.tvoetv.in.ua:7071/play/a0bf?auth=prihod:uYYhjEt
+#EXTINF:-1 tvg-logo="http://www.vsetv.com/pic/channel_logos/794.gif",Еда 
+http://stb.tvoetv.in.ua:7077/play/a01t?auth=prihod:uYYhjEt
+#EXTINF:0 tvg-logo="http://www.vsetv.com/pic/channel_logos/383.gif",Кухня ТВ
+http://185.10.211.10:7071/play/a080?auth=prihod:uYYhjEt
+#EXTINF:0 tvg-logo="http://www.vsetv.com/pic/channel_logos/1005.gif",Food Network Россия 
+http://iptv.prosto.tv:8100/ch138/index.m3u8
+#EXTINF:0 tvg-logo="http://www.vsetv.com/pic/channel_logos/416.gif",NewsOne
+http://iptv.prosto.tv:8100/ch36/index.m3u8
+#EXTINF:0 tvg-logo="http://www.vsetv.com/pic/channel_logos/298.gif",24 (Телеканал новостей 24)
+http://iptv.prosto.tv:8100/ch25/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.vsetv.com/pic/channel_logos/936.gif",Еспресо TV
+http://iptv.prosto.tv:8100/ch29/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.vsetv.com/pic/channel_logos/446.gif",ЧП.INFO
+http://iptv.prosto.tv:8100/ch31/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.vsetv.com/pic/channel_logos/106.gif",5 канал
+http://iptv.prosto.tv:8100/ch7/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.vsetv.com/pic/channel_logos/435.gif",Первый автомобильный
+http://iptv.prosto.tv:8100/ch101/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.vsetv.com/pic/channel_logos/311.gif",Авто плюс 
+http://stb.tvoetv.in.ua:7071/play/a06j?auth=prihod:uYYhjEt
+#EXTINF:0 tvg-logo="http://i.piccy.info/i9/b9de3de58182bce51d161dc30bb8b4c0/1433484679/2717/916730/avto24.jpg",Авто24
+http://stb.tvoetv.in.ua:7071/play/a03r?auth=prihod:uYYhjEt
+#EXTINF:-1 tvg-logo="http://www.vsetv.com/pic/channel_logos/243.gif",Охота и рыбалка 
+http://stb.tvoetv.in.ua:7071/play/a06d?auth=prihod:uYYhjEt
+#EXTINF:0 tvg-logo="http://www.vsetv.com/pic/channel_logos/945.gif",Трофей HD 
+http://str.trofey.net:1935/live/2_max.smil/playlist.m3u8?session=5488c6087e1ea6.57082302&id=2
+#EXTINF:-1 tvg-shift="0" tvg-logo="http://www.vsetv.com/pic/channel_logos/1080.gif",Дача
+http://stb.tvoetv.in.ua:7071/play/a08p?auth=prihod:uYYhjEt
+#EXTINF:0 tvg-logo="http://www.vsetv.com/pic/channel_logos/890.gif",UA:Перший (спутник)
+http://iptv.prosto.tv:8100/ch1/index.m3u8
+#EXTINF:0 tvg-logo="http://www.vsetv.com/pic/channel_logos/212.gif",НТН
+http://iptv.prosto.tv:8100/ch11/index.m3u8
+#EXTINF:0 tvg-logo="http://www.vsetv.com/pic/channel_logos/18.gif",ТЕТ
+http://iptv.prosto.tv:8100/ch18/index.m3u8
+#EXTINF:0 tvg-logo="http://www.vsetv.com/pic/channel_logos/75.gif",Киев
+http://iptv.prosto.tv:8100/ch57/index.m3u8
+#EXTINF:0 tvg-logo="http://www.vsetv.com/pic/channel_logos/20.gif",К2
+http://iptv.prosto.tv:8100/ch10/index.m3u8
+#EXTINF:0 tvg-logo="http://www.vsetv.com/pic/channel_logos/23.gif",2+2
+http://iptv.prosto.tv:8100/ch17/index.m3u8
+#EXTINF:0 tvg-logo="http://www.vsetv.com/pic/channel_logos/234.gif",Мега  
+http://iptv.prosto.tv:8100/ch12/index.m3u8
+#EXTINF:-1 tvg-shift="0" tvg-logo="http://www.vsetv.com/pic/channel_logos/1073.gif",Film.Ua Drama
+http://iptv.prosto.tv:8100/ch121/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.piccy.info/i9/fc1a2062e409c2cd26ed3bf416bd1905/1508399215/3450/1152476/kvartal.jpg",Квартал ТВ
+http://iptv.prosto.tv:8100/ch122/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.vsetv.com/pic/channel_logos/263.gif",Доктор
+http://stb.tvoetv.in.ua:7071/play/a03o?auth=prihod:uYYhjEt
+#EXTINF:0 tvg-logo="http://i.piccy.info/i9/45841a7517569044ce29465f5192731c/1508398972/2371/1152476/strashnoe.png",Страшное HD
+http://185.10.211.10:7071/play/a02p?auth=prihod:uYYhjEt
+#EXTINF:0 tvg-logo="http://www.vsetv.com/pic/channel_logos/329.gif",НСТ
+http://stb.tvoetv.in.ua:7071/play/a045?auth=prihod:uYYhjEt
+#EXTINF:-1 tvg-logo="https://www.tricolor.tv/upload/iblock/fc4/fc4df14df3ea2e7e2b6aeed9f21d8654.jpg",КиноПремиум HD
+http://185.10.211.10:7071/play/a03b?auth=prihod:uYYhjEt
+#EXTINF:-1 tvg-logo="http://www.vsetv.com/pic/channel_logos/302.gif",Дом Кино 
+http://185.10.211.10:7071/play/a07e?auth=prihod:uYYhjEt
+#EXTINF:-1 tvg-logo="http://i.piccy.info/i9/9db0e436037cd92c08df4b58b84652c6/1508666620/3588/1186904/Dom_kyno_premyum.png",Дом Кино Премиум (HD)
+http://185.10.211.10:7071/play/a02i?auth=prihod:uYYhjEt
+#EXTINF:-1 tvg-logo="https://www.tricolor.tv/upload/iblock/3c6/3c6f23e753d5b37f46d674be07134dfd.jpg",Остросюжетное HD
+http://185.10.211.10:7071/play/a02c?auth=prihod:uYYhjEt
+#EXTINF:-1 tvg-logo="http://www.vsetv.com/pic/channel_logos/447.gif",Кинопоказ 
+http://stb.tvoetv.in.ua:7071/play/a0ae?auth=fygenfyler:uEWeteY
+#EXTINF:-1 tvg-logo="http://www.vsetv.com/pic/channel_logos/620.gif",Кинопоказ HD1
+http://185.10.211.10:7071/play/a039?auth=prihod:uYYhjEt
+#EXTINF:-1 tvg-logo="http://www.vsetv.com/pic/channel_logos/621.gif",Кинопоказ HD2
+http://185.10.211.10:7071/play/a03a?auth=prihod:uYYhjEt
+#EXTINF:0 tvg-logo="http://i.piccy.info/i9/ddc341913582dfe9d45d8b3cd7f236d1/1508500159/6327/1152476/Kynopremera.png",Кинопремьера HD
+http://185.10.211.10:7071/play/a03w?auth=prihod:uYYhjEt
+#EXTINF:0 tvg-logo="http://i.piccy.info/i9/954f987eca092278da6c1d13dfe3b92a/1508500310/6959/1152476/Kynokhyt.png",Кинохит
+http://185.10.211.10:7071/play/a03z?auth=prihod:uYYhjEt
+#EXTINF:-1 tvg-logo="http://i.piccy.info/i9/f7b610e2983e0c4c52202d8f909f10cb/1508500109/5099/1152476/Kynomyks.png",Киномикс
+http://iptv.prosto.tv:8100/ch168/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.piccy.info/i9/0e4f603bb2617563ae3791c4d725a126/1508500234/6408/1152476/Kynosemia.png",Киносемья
+http://185.10.211.10:7071/play/a03y?auth=prihod:uYYhjEt
+#EXTINF:-1 tvg-logo="http://i.piccy.info/i9/d628850f58aaaf831fa3eb643dc04e6a/1508500202/6350/1152476/Kynosvydanye.png",Киносвидание
+http://185.10.211.10:7071/play/a03x?auth=prihod:uYYhjEt
+#EXTINF:-1 tvg-logo="http://i.piccy.info/i9/3fe64d31458684de142617e751ef8420/1508500430/6101/1152476/Muzhskoe_kyno.png",Мужское кино   
+http://iptv.prosto.tv:8100/ch167/index.m3u8
+#EXTINF:0 tvg-logo="http://i.piccy.info/i9/4615e6d882e589de88dee146c83c4506/1508500070/6502/1152476/Kynokomedyia.png",Кинокомедия  
+http://185.10.211.10:7071/play/a09j?auth=prihod:uYYhjEt
+#EXTINF:-1 tvg-logo="http://www.vsetv.com/pic/channel_logos/1081.gif",Комедия (ВГТРК)
+http://185.10.211.10:7071/play/a02l?auth=prihod:uYYhjEt
+#EXTINF:0 tvg-logo="http://www.vsetv.com/pic/channel_logos/260.gif",Наше новое кино  
+http://185.10.211.10:7071/play/a044?auth=prihod:uYYhjEt
+#EXTINF:0 tvg-logo="http://i.piccy.info/i9/578fd1f4a94906bfa07cc2fd840254cf/1508500509/6590/1152476/Rodnoe_kyno.png",Родное кино  
+http://stb.tvoetv.in.ua:7071/play/a048?auth=prihod:uYYhjEt
+#EXTINF:0 tvg-logo="http://i.piccy.info/i9/ea46aa7f57794aaac05c50c100fc5bd8/1508500267/6101/1152476/Kynoseryia.png",Киносерия 
+http://185.10.211.10:7071/play/a01x?auth=prihod:uYYhjEt
+#EXTINF:0 tvg-logo="http://i.piccy.info/i9/85ceb86b9f2aba8fd4cc214b63cce832/1508499875/6026/1152476/Yndyiskoe_kyno.png",Индийское кино
+http://185.10.211.10:7071/play/a03u?auth=prihod:uYYhjEt
+#EXTINF:0 tvg-logo="http://www.vsetv.com/pic/channel_logos/177.gif",Русский Иллюзион
+http://stb.tvoetv.in.ua:7071/play/a058?auth=prihod:uYYhjEt
+#EXTINF:0 tvg-logo="http://www.vsetv.com/pic/channel_logos/637.gif",Мир сериала
+http://185.10.211.10:7071/play/a075?auth=prihod:uYYhjEt
+#EXTINF:0 tvg-logo="http://www.vsetv.com/pic/channel_logos/1214.gif",НТВ Сериал
+http://185.10.211.10:7071/play/a028?auth=prihod:uYYhjEt
+#EXTINF:0 tvg-logo="http://www.vsetv.com/pic/channel_logos/1216.gif",НТВ Стиль
+http://185.10.211.10:7071/play/a029?auth=prihod:uYYhjEt
+#EXTINF:-1 tvg-logo="http://www.vsetv.com/pic/channel_logos/812.gif",Русский бестселлер
+http://185.10.211.10:7071/play/a06f?auth=prihod:uYYhjEt
+#EXTINF:-1 tvg-logo="http://www.vsetv.com/pic/channel_logos/942.gif",Русский детектив
+http://stb.tvoetv.in.ua:7071/play/a05t?auth=prihod:uYYhjEt
+#EXTINF:-1 tvg-logo="http://www.vsetv.com/pic/channel_logos/757.gif",Русский роман 
+http://185.10.211.10:7071/play/a03l?auth=prihod:uYYhjEt
+#EXTINF:-1 tvg-logo="https://www.tricolor.tv/upload/iblock/dec/dec24c712b6152bf7c1d11815ad50c52.jpg",Наш Кинороман (HD)
+http://185.10.211.10:7071/play/a02b?auth=prihod:uYYhjEt
+#EXTINF:-1 tvg-logo="https://www.tricolor.tv/upload/iblock/27e/27e3058ab9baec675abcee224a2122e3.jpg",Наш Детектив (HD)
+http://185.10.211.10:7071/play/a02a?auth=prihod:uYYhjEt
+#EXTINF:-1 tvg-logo="https://www.tricolor.tv/upload/iblock/487/4879ce9f1e937e4bf1a1d27ddd168d80.jpg",Наше любимое (HD)
+http://stb.tvoetv.in.ua:7071/play/a04y?auth=prihod:uYYhjEt
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/30303/2a00000158ba5f99e92035d50162255a32e5/160x120" tvg-name="https://tv.yandex.ua/213/channels/1736",Detektiv.tv
+http://185.10.211.10:7071/play/a090?auth=prihod:uYYhjEt
+#EXTINF:-1 tvg-logo="http://www.vsetv.com/pic/channel_logos/895.gif",A1
+http://stb.tvoetv.in.ua:7077/play/a01q?auth=prihod:uYYhjEt
+#EXTINF:0 tvg-logo="http://www.vsetv.com/pic/channel_logos/727.gif",A2
+http://185.10.211.10:7071/play/a009?auth=prihod:uYYhjEt
+#EXTINF:-1 tvg-logo="http://www.vsetv.com/pic/channel_logos/896.gif",Amedia Premium HD
+http://185.10.211.10:7071/play/a038?auth=prihod:uYYhjEt
+#EXTINF:-1 tvg-logo="http://www.vsetv.com/pic/channel_logos/1016.gif",Amedia Hit (HD)
+http://185.10.211.10:7071/play/a08f?auth=prihod:uYYhjEt
+#EXTINF:0 tvg-logo="http://www.vsetv.com/pic/channel_logos/107.gif",TV1000 East 
+http://iptv.prosto.tv:8100/ch111/index.m3u8
+#EXTINF:0 tvg-logo="http://www.vsetv.com/pic/channel_logos/107.gif",TV1000 Premium
+http://stb.tvoetv.in.ua:7077/play/a04z?auth=prihod:uYYhjEt
+#EXTINF:0 tvg-logo="http://www.vsetv.com/pic/channel_logos/458.gif",TV1000 Action East
+http://iptv.prosto.tv:8100/ch113/index.m3u8
+#EXTINF:0 tvg-logo="http://www.vsetv.com/pic/channel_logos/255.gif",TV1000 русское кино 
+http://stb.tvoetv.in.ua:7077/play/tv1000rukino?auth=prihod:uYYhjEt
+#EXTINF:0 tvg-logo="http://www.vsetv.com/pic/channel_logos/1020.gif",TV1000 World kino 
+http://iptv.prosto.tv:8100/ch112/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.vsetv.com/pic/channel_logos/818.gif",ViP Comedy HD
+http://185.10.211.10:7071/play/a01i?auth=prihod:uYYhjEt
+#EXTINF:-1 tvg-logo="http://www.vsetv.com/pic/channel_logos/816.gif",ViP Megahit HD
+http://185.10.211.10:7071/play/a01f?auth=prihod:uYYhjEt
+#EXTINF:-1 tvg-logo="http://www.vsetv.com/pic/channel_logos/814.gif",ViP Premiere HD
+http://185.10.211.10:7071/play/a01g?auth=prihod:uYYhjEt
+#EXTINF:-1 tvg-logo="http://www.vsetv.com/pic/channel_logos/770.gif",Paramount Comedy Украина
+http://iptv.prosto.tv:8100/ch102/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.ntvplus.ru/files/image/00/02/04/channel!0ec.png",Paramount channel Россия 
+http://stb.tvoetv.in.ua:7071/play/a01t?auth=prihod:uYYhjEt
+#EXTINF:-1 tvg-logo="http://www.vsetv.com/pic/channel_logos/214.gif",MGM HD
+http://185.10.211.10:7071/play/a00m?auth=prihod:uYYhjEt
+#EXTINF:-1 tvg-logo="https://cdn.ntvplus.ru/files/image/00/01/39/channel!n7n.png",AMC
+http://iptv.prosto.tv:8100/ch162/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.vsetv.com/pic/channel_logos/91.gif",CBS Reality
+http://stb.tvoetv.in.ua:7071/play/a07f?auth=prihod:uYYhjEt
+#EXTINF:-1 tvg-logo="http://www.vsetv.com/pic/channel_logos/413.gif",FOX Россия 
+http://iptv.prosto.tv:8100/ch120/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.vsetv.com/pic/channel_logos/432.gif",Fox Life Россия 
+http://stb.tvoetv.in.ua:7071/play/a01b?auth=prihod:uYYhjEt
+#EXTINF:0 tvg-logo="http://www.vsetv.com/pic/channel_logos/525.gif",Sony Channel Россия 
+http://stb.tvoetv.in.ua:7071/play/a01w?auth=prihod:uYYhjEt
+#EXTINF:-1 tvg-logo="http://www.vsetv.com/pic/channel_logos/403.gif",Sony Sci-Fi Россия
+http://185.10.211.10:7071/play/a019?auth=prihod:uYYhjEt
+#EXTINF:-1 tvg-logo="http://www.vsetv.com/pic/channel_logos/805.gif",Sony Turbo
+http://185.10.211.10:7071/play/a01z?auth=prihod:uYYhjEt
+#EXTINF:-1 tvg-logo="http://www.vsetv.com/pic/channel_logos/390.gif",Феникс+Кино
+http://stb.tvoetv.in.ua:7077/play/a069?auth=prihod:uYYhjEt
+#EXTINF:-1 tvg-logo="http://www.vsetv.com/pic/channel_logos/351.gif",Cinema 
+http://stb.tvoetv.in.ua:7071/play/a0cc?auth=prihod:uYYhjEt
+#EXTINF:-1 tvg-logo="http://www.vsetv.com/pic/channel_logos/22.gif",RTVI
+http://stb.tvoetv.in.ua:7071/play/a06e?auth=prihod:uYYhjEt
+#EXTINF:-1 tvg-logo="http://www.vsetv.com/pic/channel_logos/68.gif",ТВ XXI
+http://iptv.prosto.tv:8100/ch127/index.m3u8
+#EXTINF:0 tvg-logo="http://www.vsetv.com/pic/channel_logos/526.gif",Любимое кино 
+http://iptv.prosto.tv:8100/ch38/index.m3u8
+#EXTINF:0 tvg-logo="http://www.vsetv.com/pic/channel_logos/487.gif",Еврокино
+http://iptv.prosto.tv:8100/ch43/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.vsetv.com/pic/channel_logos/316.gif",ТНТ-Music
+http://185.10.211.10:7071/play/a08z?auth=prihod:uYYhjEt
+#EXTINF:-1 tvg-logo="http://www.vsetv.com/pic/channel_logos/116.gif",MCM Top
+http://iptv.prosto.tv:8100/ch148/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.vsetv.com/pic/channel_logos/218.gif",MTV Россия
+http://stb.tvoetv.in.ua:7071/play/a05l?auth=prihod:uYYhjEt
+#EXTINF:-1 tvg-logo="http://www.vsetv.com/pic/channel_logos/488.gif",MTV Live HD
+http://stb.tvoetv.in.ua:7071/play/a00r?auth=prihod:uYYhjEt
+#EXTINF:-1 tvg-logo="http://www.vsetv.com/pic/channel_logos/224.gif",MTV Dance International
+http://iptv.prosto.tv:8100/ch128/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.vsetv.com/pic/channel_logos/221.gif",MTV Hits International
+http://185.10.211.10:7071/play/a00q?auth=prihod:uYYhjEt
+#EXTINF:-1 tvg-logo="http://www.vsetv.com/pic/channel_logos/222.gif",MTV Rocks International
+http://iptv.prosto.tv:8100/ch144/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.vsetv.com/pic/channel_logos/50.gif",VH1 Europe
+http://stb.tvoetv.in.ua:7071/play/a012?auth=prihod:uYYhjEt
+#EXTINF:-1 tvg-logo="http://www.vsetv.com/pic/channel_logos/682.gif",Europa Plus TV
+http://185.10.211.10:7071/play/a01s?auth=prihod:uYYhjEt
+#EXTINF:-1 tvg-logo="http://www.vsetv.com/pic/channel_logos/808.gif",Муз-ТВ
+http://185.10.211.10:7071/play/a077?auth=prihod:uYYhjEt
+#EXTINF:-1 tvg-logo="http://www.vsetv.com/pic/channel_logos/94.gif",М1
+http://iptv.prosto.tv:8100/ch21/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.vsetv.com/pic/channel_logos/445.gif",М2
+http://iptv.prosto.tv:8100/ch22/index.m3
